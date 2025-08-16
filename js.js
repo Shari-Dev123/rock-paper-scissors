@@ -57,3 +57,7 @@ choices.forEach((choice) => {
         playGames(userChoice);
     })
 })
+
+console.log("userScorePara =", userScorePara);
+console.log("compScorePara =", compScorePara);
+console.log("msg =", msg);
